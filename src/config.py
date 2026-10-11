@@ -1,4 +1,4 @@
 """Settings for the toy service."""
 
 TIMEOUT_S = 10
-RETRIES = 3
+RETRIES = 0
